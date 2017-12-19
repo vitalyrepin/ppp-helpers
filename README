@@ -1,0 +1,4 @@
+Couple of tested helper scripts to setup ppp routing correctly without NetworkManager.
+up and down scripts are provided.
+
+Use at your own risk! 
